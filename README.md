@@ -1,5 +1,5 @@
 ## 今天学习了MarkDown 
-******
+--------------------
 真是好玩死了，一上来我甚至没看懂   
 ```Hello,MarkDown!```  
 接下来我害得学：   
@@ -15,6 +15,9 @@
 
 >区块引用  
 >>嵌套引用 
+
 `public void main(String[] args){
-`System.out.println("wryyy");
-}
+ System.out.println("wryyy");
+ 
+ `}
+ 
