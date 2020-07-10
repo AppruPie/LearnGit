@@ -16,7 +16,7 @@
 >区块引用  
 >>嵌套引用     
 
- `public void main(String[] args){
- System.out.println("wryyy");
+ `public void main(String[] args){   
+ System.out.println("wryyy");    
  }`  
  
