@@ -16,8 +16,10 @@
 >区块引用  
 >>嵌套引用     
 
- `public void main(String[] args){    
- asdf    
- 
- }`  
+ ```
+  void main()
+  {
+  printf("what the hell?");
+  }
+  ```
  
